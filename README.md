@@ -6,7 +6,7 @@
 - 3D Animation : Blender 3D
 
 ## My Interest 
-- Sharpening my game programming, 3D Modelling and Animation to be better than before
+- Sharpening my game programming, 3D Modelling and Animation skill to be better than before
 - Learning new things about game development industry and technology
 - Join a game development team, project, or company to help support and develop the game development industry
 
